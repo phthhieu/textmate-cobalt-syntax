@@ -1,0 +1,17 @@
+{
+  "name": "cobalt-textmate-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Textmate cobalt syntax theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme",
+    "textmate",
+    "cobalt"
+  ],
+  "repository": "https://github.com/atom/cobalt-textmate-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
