@@ -1,5 +1,5 @@
 {
-  "name": "cobalt-textmate-syntax",
+  "name": "textmate-cobalt-syntax",
   "theme": "syntax",
   "version": "0.1.0",
   "description": "Textmate cobalt syntax theme for Atom",
@@ -9,7 +9,7 @@
     "textmate",
     "cobalt"
   ],
-  "repository": "https://github.com/atom/cobalt-textmate-syntax",
+  "repository": "https://github.com/phthhieu/textmate-cobalt-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
